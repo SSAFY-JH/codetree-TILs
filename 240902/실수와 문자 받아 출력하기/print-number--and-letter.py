@@ -2,6 +2,4 @@ a = input()
 b = float(input())
 b = float(input())
 
-print(a)
-print(round(b, 2))
-print(round(c, 2))
+print(f'{a}\n{b:.2f}\n{c:.2f}')
