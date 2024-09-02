@@ -1,4 +1,4 @@
 a = float(input())
 b = float(input())
-result = a + b
-print(result)
+result = float(a + b)
+print(float(result))
