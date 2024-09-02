@@ -5,4 +5,4 @@ if b >= 25:
     print(int(b))
     print("Obesity")
 else:
-    print(b)
+    print(int(b))
