@@ -1,4 +1,4 @@
 a = input()
 a = float(a)
 
-print(a:.2f)
+print(round(a, 2))
