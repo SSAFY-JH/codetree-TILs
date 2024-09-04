@@ -9,4 +9,4 @@ for i in range(10):
 
 
 avg = total / average
-print(f'{total} {avg:.1f})
+print(f'{total} {avg:.1f}')
