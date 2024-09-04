@@ -3,7 +3,7 @@ class_clean = 0
 hall_clean = 0
 restroon_clean = 0
 
-for i in range(1, N):
+for i in range(1, N+1):
     if i % 12 == 0:
         restroon_clean += 1
     elif i % 3 == 0:
