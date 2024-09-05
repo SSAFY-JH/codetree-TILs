@@ -8,4 +8,5 @@ while True:
         cnt += 1
     if age >= 30:
         break
-print(f"{total_age / cnt:.2f}")
+if cnt >= 0:
+    print(f"{total_age / cnt:.2f}")
