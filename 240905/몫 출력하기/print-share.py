@@ -4,4 +4,3 @@ while True:
         pass
     elif n % 2 == 0:
         print(n//2)
-        break
