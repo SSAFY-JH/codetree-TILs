@@ -1,4 +1,4 @@
-arr = list(map(int, input().split()))
+arr = map(int, input().split())
 
 sum_num = 0
 
