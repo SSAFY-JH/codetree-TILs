@@ -11,4 +11,4 @@ for i in arr:
 
 result = plus / cnt
 
-print(plus, result)
+print(f'{plus} {result:.1f}')
